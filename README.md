@@ -1,7 +1,7 @@
 # Live Demo
 Live Demo: https://delightful-youtiao-b8b6e8.netlify.app/
 
-# Portfolio Website
+# Portfolio Websites
 
 This is a personal portfolio website for **Pritesh Bhuravane**, showcasing skills, experience, and contact information.
 
